@@ -1,0 +1,15 @@
+{
+    "name": "John",
+    "age": 30,
+    "isStudent": false,
+    "courses": [
+        {"name": "Mathematics", "grade": "A"},
+        {"name": "Physics", "grade": "B"},
+        {"name": "Computer Science", "grade": "A",
+    ],
+    "address": {
+        "city": "New York",
+        "zipcode": 10001,
+        "coordinates": [40.7128, -74.0060]
+    }
+}
